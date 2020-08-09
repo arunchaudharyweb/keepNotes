@@ -99,3 +99,20 @@ header h1 {
     cursor: pointer;
     outline: none;
   }
+
+
+  @media only screen and (max-width: 500px){
+    header h1 {
+      font-size: 34px;
+    }
+    .note h1{
+      font-size: 24px;
+    }
+
+    .note p{
+      font-size: 24px;
+    }
+    form.create-note textarea{
+      font-size: 26px;
+    }
+  }
