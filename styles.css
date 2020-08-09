@@ -55,10 +55,10 @@ header h1 {
   
   .note button {
     position: absolute;
-    right: 10px;
-    bottom: 10px;
-    
-    color: #f5ba13;
+    right: 18px;
+    bottom: 18px;
+    background: #f5ba13;
+    color: #fff;
     border: none;
     width: 36px;
     height: 36px;
