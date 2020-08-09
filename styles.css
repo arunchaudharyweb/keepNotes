@@ -28,7 +28,7 @@ header h1 {
     color: #fff;
     font-family: "McLaren", cursive;
     font-weight: 200;
-    font-size: 5em;
+    font-size: 50px;
 }
 
 .note {
@@ -43,11 +43,11 @@ header h1 {
     /* float: left; */
   }
   .note h1 {
-    font-size: 4.3em;
+    font-size: 35px;
     margin-bottom: 6px;
   }
   .note p {
-    font-size: 4.3em;
+    font-size: 35px;
     margin-bottom: 10px;
     white-space: pre-wrap;
     word-wrap: break-word;  
@@ -81,7 +81,7 @@ header h1 {
     border: none;
     padding: 4px;
     outline: none;
-    font-size: 4.5em;
+    font-size: 40px;
     font-family: inherit;
     resize: none;
   }
