@@ -43,11 +43,11 @@ header h1 {
     /* float: left; */
   }
   .note h1 {
-    font-size: 16px;
+    font-size: 20px;
     margin-bottom: 6px;
   }
   .note p {
-    font-size: 16px;
+    font-size: 20px;
     margin-bottom: 10px;
     white-space: pre-wrap;
     word-wrap: break-word;  
@@ -81,7 +81,7 @@ header h1 {
     border: none;
     padding: 4px;
     outline: none;
-    font-size: 18px;
+    font-size: 22px;
     font-family: inherit;
     resize: none;
   }
