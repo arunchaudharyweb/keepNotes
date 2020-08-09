@@ -103,16 +103,16 @@ header h1 {
 
   @media only screen and (max-width: 500px){
     header h1 {
-      font-size: 34px;
+      font-size: 40px;
     }
     .note h1{
-      font-size: 24px;
+      font-size: 28px;
     }
 
     .note p{
-      font-size: 24px;
+      font-size: 28px;
     }
     form.create-note textarea{
-      font-size: 26px;
+      font-size: 32px;
     }
   }
